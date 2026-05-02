@@ -1,5 +1,5 @@
 [versions]
-donkey = "3.3.1"
+donkey = "3.4.3"
 corridor = "2.0.15"
 
 [libraries]
