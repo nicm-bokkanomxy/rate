@@ -1,6 +1,6 @@
 [versions]
 donkey = "3.3.1"
-corridor = "2.0.15"
+corridor = "2.0.17"
 
 [libraries]
 donkey = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "donkey" }
