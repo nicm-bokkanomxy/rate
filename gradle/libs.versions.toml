@@ -1,0 +1,7 @@
+[versions]
+donkey = "3.3.1"
+corridor = "2.0.15"
+
+[libraries]
+donkey = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "donkey" }
+corridor = { module = "org.slf4j:slf4j-api", version.ref = "corridor" }
